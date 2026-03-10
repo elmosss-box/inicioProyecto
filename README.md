@@ -1,5 +1,8 @@
 # 🚀 Proyecto Final: Infraestructura, Contenedores y Alta Disponibilidad
 
+<img width="1024" height="822" alt="image" src="https://github.com/user-attachments/assets/7c481b94-6c72-43ce-80aa-a0cedf6cdea8" />
+
+
 ## 📖 Descripción del Proyecto
 Este repositorio contiene la documentación y planificación de nuestro proyecto final de curso. El objetivo principal es diseñar, desplegar y administrar una infraestructura tecnológica completa que integre almacenamiento centralizado, virtualización, gestión de contenedores y salida segura a Internet.
 
@@ -57,4 +60,5 @@ Como equipo, hemos analizado críticamente nuestra arquitectura e identificado l
 2.  **Solución Propuesta:** Nuestra estrategia pasa por enfocar los esfuerzos en la **Recuperación ante Desastres (DR)**. Aseguraremos que el almacenamiento (Super Micro) esté desvinculado del cómputo (HP) para garantizar que, ante cualquier fallo físico del nodo principal, no haya pérdida de datos de producción ni de backups.
 
 ---
-*Documentación generada para la defensa del proyecto final de curso.*
+<img width="862" height="692" alt="image" src="https://github.com/user-attachments/assets/86a3f542-d2c9-48ac-9587-19c92decf69c" />
+
